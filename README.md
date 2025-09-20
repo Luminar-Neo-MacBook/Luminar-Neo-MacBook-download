@@ -1,4 +1,4 @@
-# Luminar-Neo MacBook  
+# Luminar Neo MacBook  
 ![logo](https://www.ephotozine.com/resize/articles/36349/luminarneo_logo%20copy.jpg?RTUdGk5cXyJFCgsJVANtdxU+cVRdHxFYFw1Gewk0T1JYFEtzen5YdgthHHsvEVxR)
 
 The official-style installation guide for **Luminar Neo on MacBook** 🌌.  
@@ -20,9 +20,9 @@ Follow the instructions below to set up the AI-powered photo editing software se
 
 ## 📘 About Luminar-Neo MacBook  
 
-**Luminar-Neo MacBook** is an advanced AI-powered photo editor designed for macOS. It combines creative tools with cutting-edge artificial intelligence to help photographers achieve professional results faster.  
+**Luminar Neo MacBook** is an advanced AI-powered photo editor designed for macOS. It combines creative tools with cutting-edge artificial intelligence to help photographers achieve professional results faster.  
 
-The **Luminar-Neo installation guide for MacBook** provides detailed setup steps, ensuring you can start editing with tools such as portrait enhancement, sky replacement, and relight AI.  
+The **Luminar Neo installation guide for MacBook** provides detailed setup steps, ensuring you can start editing with tools such as portrait enhancement, sky replacement, and relight AI.  
 
 Unlike web-based solutions, **Luminar Neo on MacBook** offers complete offline editing with GPU acceleration and optimized workflows for Apple silicon (M1/M2/M3). This ensures smooth performance even with large RAW files.  
 
@@ -30,7 +30,7 @@ With this **GitHub-based Luminar Neo installation guide**, photographers gain a 
 
 ---
 
-## 💎 Advantages of Luminar-Neo MacBook  
+## 💎 Advantages of Luminar Neo MacBook  
 ⚡ Fast AI-driven workflow  
 🎨 Dozens of creative filters and looks  
 🤖 Smart photo enhancement tools  
